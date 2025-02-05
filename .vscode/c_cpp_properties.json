@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "name": "silverblue",
+            "includePath": [
+                "${workspaceFolder}/src/**",
+                "${workspaceFolder}/src/include"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c99",
+            "intelliSenseMode": "linux-clang-x64"
+        }
+    ],
+    "version": 4
+}

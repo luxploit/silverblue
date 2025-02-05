@@ -17,8 +17,8 @@
 #### todo add some yap how about documentation
 
 ## License
-<a href="[https://www.gnu.org/licenses/agpl-3.0.en.html](https://github.com/luxploit/silverblue/blob/trunk/LICENSE)">
-  <img align="right" height="120" alt="AGPL3 License" src="https://fossa.com/blog/content/images/2021/03/BSD.png" />
+<a href="https://github.com/luxploit/silverblue/blob/trunk/LICENSE">
+  <img align="right" height="120" alt="BSD License" src="https://fossa.com/blog/content/images/2021/03/BSD.png" />
 </a>
 sliverblue is licensed under a modified <b>BSD 3-Clause License</b>. This includes an acknowledgement of no usage for Nuclear or Military purposes. 
 These were taken from the <a href="https://spdx.org/licenses/BSD-3-Clause-No-Nuclear-Warranty.html">No Nuclear</a> and <a href="https://spdx.org/licenses/BSD-3-Clause-No-Military-License.html">No Military</a> derivatives.

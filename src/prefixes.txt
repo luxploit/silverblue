@@ -1,0 +1,7 @@
+uhh prefixes for OS stuff
+
+Ki  - Kernel internal
+Hal - Hardware abstraction layer
+Dbg - Debug
+Blu - Syscalls
+Drv - Driver

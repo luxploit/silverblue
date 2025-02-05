@@ -1,0 +1,8 @@
+build/
+builds/
+bin/
+cmake/
+3rdparty/
+
+iso/
+fuck.iso

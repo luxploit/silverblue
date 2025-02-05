@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "helpers.h": "c",
+        "stdbool.h": "c",
+        "common.h": "c",
+        "assert.h": "c",
+        "hal.h": "c"
+    }
+}
