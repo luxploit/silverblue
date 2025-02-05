@@ -4,7 +4,7 @@
 
 ![GitHub License](https://img.shields.io/badge/BSD%203--Clause-C?style=plastic&logo=bsd&label=license&color=a11616)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/luxploit/silverblue?style=plastic)
-<img alt="Lines of code in project" src="https://img.shields.io/endpoint?url=https://ghloc.vercel.app/api/luxploit/silverblue/badge?filter=.py$,.sh$&style=plastic&logoColor=white&label=lines%20of%20code&color=42bc14"></a>
+<img alt="Lines of code in project" src="https://img.shields.io/endpoint?url=https://ghloc.vercel.app/api/luxploit/silverblue/badge?filter=.h$,.c$,.asm$,.s$,.ld$&style=plastic&logoColor=white&label=lines%20of%20code&color=42bc14"></a>
 
 *An NT OS/2 inspired operating system project built from the ground up*
 <br>
