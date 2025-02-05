@@ -2,7 +2,7 @@
 
 # silverblue
 
-![GitHub License](https://img.shields.io/badge/BSD%203-Clause?style=plastic&logo=bsd&label=license&color=a11616)
+![GitHub License](https://img.shields.io/badge/BSD%203--Clause-C?style=plastic&logo=bsd&label=license&color=a11616)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/luxploit/silverblue?style=plastic)
 <img alt="Lines of code in project" src="https://img.shields.io/endpoint?url=https://ghloc.vercel.app/api/luxploit/silverblue/badge?filter=.py$,.sh$&style=plastic&logoColor=white&label=lines%20of%20code&color=42bc14"></a>
 
