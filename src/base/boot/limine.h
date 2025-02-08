@@ -22,7 +22,7 @@ extern "C"
 {
 #endif
 
-#include <stdint.h>
+#include <std/stdint.h>
 
     /* Misc */
 

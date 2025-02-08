@@ -5,4 +5,5 @@ if [ ! -f ./CMakeLists.txt ]; then
   exit 1
 fi
 
-rm -rf builds
+source utils/clean.sh
+source utils/clean_vendor.sh

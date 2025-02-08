@@ -5,4 +5,4 @@ if [ ! -f ./CMakeLists.txt ]; then
   exit 1
 fi
 
-rm -rf builds
+rm -rf 3rdparty
